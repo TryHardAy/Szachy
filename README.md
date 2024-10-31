@@ -1,1 +1,3 @@
 # Szachy
+
+Not Finished
